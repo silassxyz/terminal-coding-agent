@@ -1,4 +1,4 @@
-anthropic
+google-genai
 python-dotenv
 click
 gitpython      # falls du Git-Commits/Rollback programmatisch steuern willst
