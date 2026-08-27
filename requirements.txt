@@ -4,3 +4,4 @@ click
 gitpython      # falls du Git-Commits/Rollback programmatisch steuern willst
 rich           # für schönere Terminal-Ausgabe (Farben, Tabellen, Fortschrittsbalken)
 tenacity       # für sauberes Retry-Handling bei API-Fehlern
+pytest
